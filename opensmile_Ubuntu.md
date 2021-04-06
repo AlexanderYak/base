@@ -8,7 +8,7 @@ opensmile-python установка и применение в среде Ubuntu
 
     3. Установить sox (http://sox.sourceforge.net/) через apt (в отдельном терминале, т.к. sox надо устанавливать в самом Ubuntu):
 
-    $ sudo apt install sox
+>     $ sudo apt install sox
 
-    4. Запустить виртуальное окружение. Для этого
+    4. Запустить виртуальное окружение. 
 
