@@ -14,8 +14,9 @@ Virtual environment: creation, activation, deactivation (for Ubuntu)
 
 Активировать виртуальное окружение нужно из папки, где оно создано. Для этого терминал открывается в этой папке. После чего:
 
-$ source myenv/bin/activate
-(myvenv) $
+> $ source myenv/bin/activate
+
+> (myvenv) $
 
 **Деактивация виртуального окружения**
 
